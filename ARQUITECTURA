@@ -1,0 +1,4 @@
+Tipo: 3 capas + Cliente-Servidor
+Capa 1 → Windows Forms (fmMain, fmCliente, fmProducto, fmFacturacion, fmCobrar)
+Capa 2 → Clases C# (Cliente, Producto, Factura, DetalleFactura, Pago, ConexionBD)
+Capa 3 → SQL Server (FacturacionDB con 5 tablas)
