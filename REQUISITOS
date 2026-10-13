@@ -1,0 +1,15 @@
+REQUISITOS FUNCIONALES:
+
+RF-01 → Calcular ITBIS automáticamente
+RF-02 → Alerta de facturas vencidas en dashboard
+RF-03 → Validar cédula duplicada
+RF-04 → Pagos parciales
+RF-05 → Filtrar cuentas por cobrar por estado
+
+REQUISITOS NO FUNCIONALES:
+
+RNF-01 → Respuesta menor a 3 segundos
+RNF-02 → Funcionar en Windows 10+
+RNF-03 → Interfaz intuitiva
+RNF-04 → Manejo de errores sin crashear
+RNF-05 → Integridad de datos con transacciones
